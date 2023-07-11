@@ -20,7 +20,7 @@ Feel free to reach out to me on any of these platforms. I'm always open to conne
 
 I'm passionate about coding and enjoy working on various projects. Here is the first one:
 
-1. [MyFirstPage](https://github.com/johnnyssauro/.vscode): Short description of the project.
+1. [MyFirstPage](https://github.com/johnnyssauro/.vscode): My first project, project created by me that uses CSS, HTML, and JavaScript to create a web page that serves as a link shortener .
 
 Make sure to check out these projects to get a glimpse of my coding skills and interests.
 
