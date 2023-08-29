@@ -1,4 +1,4 @@
-# [João](https://https://github.com/johnnyssauro/) Melo's GitHub Readme
+# [João Melo's](https://https://github.com/johnnyssauro/) GitHub Readme
 
 🖐🏾 Hello everyone, I'm João Melo. Welcome to my GitHub profile!
 
