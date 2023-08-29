@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A3o-melo-ab137b263/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/johnnyssauro/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce)](https://trailblazer.me/id/jmelo66/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)](https://https://github.com/johnnyssauro/))
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)](https://https://github.com/johnnyssauro/)
 
 Feel free to reach out to me on any of these platforms. I'm always open to connecting with fellow developers and discussing exciting projects or collaborations.
 
