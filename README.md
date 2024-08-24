@@ -6,7 +6,7 @@
 
 - 🎓 Student of Analysis and Systems Development.
 - 👩🏾‍💻 Currently learning programming and CRM on the Salesforce platform.
-- 🔍 Seeking to study JavaScript, HTML, CSS, SQL, and Node.JS.
+- 🔍 Seeking to study Java, JavaScript, HTML, CSS, SQL, Angular, React and Node.JS.
 
 ## Connect with Me
 
